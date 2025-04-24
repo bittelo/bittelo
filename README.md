@@ -6,9 +6,7 @@
 
 #
 
-<p align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Católica de Brasília e estou em busca da minha primeira oportunidade de trabalho na área de tecnologia. Paralelamente, dedico-me ao aprendizado das linguagens C e Java, expandindo constantemente meus conhecimentos.
-Sou apaixonado por aprender e estou sempre em busca de novos desafios. Meu objetivo é aplicar o que aprendo para desenvolver soluções inovadoras.
-
+<p align="center"> I am a student of Systems Analysis and Development at the Catholic University of Brasília, and I am looking for my first job opportunity in the technology field. At the same time, I dedicate myself to learning SQL and Java languages, constantly expanding my knowledge. I am passionate about learning and always seeking new challenges. My goal is to apply what I learn to develop innovative solutions.
 #
 <h3 align="left">Connect with me!</h3>
 
