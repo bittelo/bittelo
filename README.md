@@ -7,7 +7,6 @@
 #
 
 <p align="center"> I am a student of Systems Analysis and Development at the Catholic University of Brasília, and I am looking for my first job opportunity in the technology field. At the same time, I dedicate myself to learning SQL and Java languages, constantly expanding my knowledge. I am passionate about learning and always seeking new challenges. My goal is to apply what I learn to develop innovative solutions.
-#
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatohanza@gmail.com)
