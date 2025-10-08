@@ -36,7 +36,7 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=bittelo&show_icons=true&theme=radical">
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5">
 
 
   <a href="https://github.com/bittelo/github-readme-stats">
