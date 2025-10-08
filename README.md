@@ -34,7 +34,7 @@
 
 
 <div style="text-align: center;" align="center">
-  <h3>* Meu Status *</h3>
+  <h3>* My GitHub Stats! *</h3>
   <br>
   <img height="300" src="https://github-readme-stats.vercel.app/api?username=bittelo&show_icons=true&theme=radical">
 
